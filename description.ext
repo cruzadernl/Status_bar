@@ -2,6 +2,6 @@
 
 class RscTitles
 {
-	#include "addons\status_bar\dialog\statusBar.hpp"
+	#include "status_bar\dialog\statusBar.hpp"
 
 };
