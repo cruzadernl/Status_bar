@@ -1,7 +1,7 @@
 
 // Status Bar
 
-[] execVM "addons\status_bar\fn_statusBar.sqf";
+[] execVM "status_bar\fn_statusBar.sqf";
 
 
 
