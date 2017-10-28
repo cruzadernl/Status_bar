@@ -1,5 +1,3 @@
-
-
 class RscTitles
 {
 	#include "status_bar\dialog\statusBar.hpp"
