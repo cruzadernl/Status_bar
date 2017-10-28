@@ -1,0 +1,7 @@
+
+
+class RscTitles
+{
+	#include "addons\status_bar\dialog\statusBar.hpp"
+
+};
