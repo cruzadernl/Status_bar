@@ -37,14 +37,14 @@ _rscLayer cutRsc["osefStatusBar","PLAIN"];
 		((uiNamespace getVariable "osefStatusBar")displayCtrl 1000)ctrlSetStructuredText parseText format
 		
 		["		   
-		<t shadow='1' shadowColor='#000000'><img size='1.0'  shadowColor='#000000' image='addons\status_bar\icons\fps.paa'/> %1</t>
-		<t shadow='1' shadowColor='#000000'><img size='1.6'  shadowColor='#000000' image='addons\status_bar\icons\hunger.paa'/> %2</t>
-		<t shadow='1' shadowColor='#000000'><img size='1.6'  shadowColor='#000000' image='addons\status_bar\icons\thirst.paa'/> %3</t>
-		<t shadow='1' shadowColor='#000000'><img size='1.0'  shadowColor='#000000' image='addons\status_bar\icons\health.paa'/> %4</t>
-		<t shadow='1' shadowColor='#000000'><img size='1.0'  shadowColor='#000000' image='addons\status_bar\icons\biohazard.paa'/> %5</t>
-		<t shadow='1' shadowColor='#000000'><img size='1.0'  shadowColor='#000000' image='addons\status_bar\icons\nuclear.paa'/> %6</t>
-		<t shadow='1' shadowColor='#000000'><img size='1.0'  shadowColor='#000000' image='addons\status_bar\icons\money.paa'/> %7</t>
-		<t shadow='1' shadowColor='#000000'><img size='1.6'  shadowColor='#000000' image='addons\status_bar\icons\restart.paa'/>%8:%9</t>",      
+		<t shadow='1' shadowColor='#000000'><img size='1.0'  shadowColor='#000000' image='status_bar\icons\fps.paa'/> %1</t>
+		<t shadow='1' shadowColor='#000000'><img size='1.6'  shadowColor='#000000' image='status_bar\icons\hunger.paa'/> %2</t>
+		<t shadow='1' shadowColor='#000000'><img size='1.6'  shadowColor='#000000' image='status_bar\icons\thirst.paa'/> %3</t>
+		<t shadow='1' shadowColor='#000000'><img size='1.0'  shadowColor='#000000' image='status_bar\icons\health.paa'/> %4</t>
+		<t shadow='1' shadowColor='#000000'><img size='1.0'  shadowColor='#000000' image='status_bar\icons\biohazard.paa'/> %5</t>
+		<t shadow='1' shadowColor='#000000'><img size='1.0'  shadowColor='#000000' image='status_bar\icons\nuclear.paa'/> %6</t>
+		<t shadow='1' shadowColor='#000000'><img size='1.0'  shadowColor='#000000' image='status_bar\icons\money.paa'/> %7</t>
+		<t shadow='1' shadowColor='#000000'><img size='1.6'  shadowColor='#000000' image='status_bar\icons\restart.paa'/>%8:%9</t>",      
 		round diag_fps, _hunger, _thirst, _damage, EPOCH_playerToxicity, EPOCH_playerRadiation, EPOCH_playerCrypto, _hours, _minutes, _counter];
 	}; 
 };
