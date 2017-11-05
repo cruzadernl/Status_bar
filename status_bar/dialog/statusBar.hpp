@@ -26,7 +26,7 @@ class osefStatusBar {
                       colorBackground[]={0,0,0,0};
                       sizeEx = 0.4;
                       font = "PuristaSemibold";
-                      text = "addons\status_bar\StatusBarBackground.paa"; 
+                      text = "status_bar\StatusBarBackground.paa"; 
               };
       };
 		
