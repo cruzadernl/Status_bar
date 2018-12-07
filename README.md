@@ -3,7 +3,7 @@ collaboration of all the oldies into a new status bar.
 -Including Radiation status
 
 
-Original Author's ( i gues? ) 
+Original Author's ( not sure ) 
 
 -midgetgrimms
 -Creampie
